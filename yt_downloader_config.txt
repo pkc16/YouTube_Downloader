@@ -1,0 +1,2 @@
+[Settings]
+download_directory=C:\Users\Inspiron3650\Downloads
